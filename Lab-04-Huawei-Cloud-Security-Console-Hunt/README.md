@@ -69,27 +69,3 @@ Each answer should use the following structure:
 3. Console path or official URL
 4. Screenshot reference
 5. Additional notes, if necessary
-
-## Suggested Repository Structure
-
-```text
-Lab-04-Huawei-Cloud-Security-Console-Hunt
-├── README.md
-├── Assignment
-│   ├── README-EN.md
-│   └── README-TR.md
-├── Answer-Sheet-EN.pdf
-├── Answer-Sheet-TR.pdf
-└── Screenshots
-    ├── 01-CTS-Login-Trace.png
-    ├── 02-CTS-Default-Tracker.png
-    ├── 03-CTS-Retention.png
-    ├── 04-LTS-ELB-Parsing-Template.png
-    ├── 05-HSS-Editions.png
-    ├── 06-HSS-Emergency-Vulnerability.png
-    ├── 07-SecMaster-Compliance-Packs.png
-    ├── 08-SecMaster-Default-Scan-Window.png
-    ├── 09-ISO-27001-Certificate.png
-    ├── 10-PCI-DSS-Regions.png
-    ├── 11-GDPR-KVKK-Statement.png
-    └── 12-Regional-Service-Availability.png
